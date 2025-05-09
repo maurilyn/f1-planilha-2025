@@ -1,10 +1,23 @@
 # 🏁 Planilha Fórmula 1 – Temporada 2025
 
-Esta planilha contém informações organizadas sobre a temporada 2025 da Fórmula 1.
+Esta planilha contém informações e recursos relacionados à temporada 2025 da Fórmula 1. Pode incluir:
 
-## 📦 Arquivo disponível
+- Classificação dos pilotos e equipes
+- Resultados por corrida
+- Estatísticas de desempenho
+- Tabela dinâmica de pontos
 
-- `Planilha-Formula-1-2025.xlsx`
+## 📂 Arquivo disponível
+
+- `Planilha-Formula-1-2025.xlsx` – Planilha em Excel com todos os dados atualizados da temporada.
+
+## ✅ Como usar
+
+1. Baixe a planilha clicando em "Download".
+2. Abra no Excel ou no Google Sheets.
+3. Personalize ou acompanhe os dados ao longo do campeonato.
+
+---
 
 ## 📄 Licença
 

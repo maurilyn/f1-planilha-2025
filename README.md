@@ -1,6 +1,8 @@
 # 🏁 Planilha Fórmula 1 – Temporada 2025
 
-Esta planilha contém informações e recursos relacionados à temporada 2025 da Fórmula 1. Pode incluir:
+**Atualizada até:** Miami GP
+
+Esta planilha contém informações e recursos relacionados à temporada 2025 da Fórmula 1. Entre:
 
 - Classificação dos pilotos e equipes
 - Resultados por corrida

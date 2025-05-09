@@ -19,6 +19,12 @@ Esta planilha contém informações e recursos relacionados à temporada 2025 da
 2. Abra no Excel ou no Google Sheets.
 3. Personalize ou acompanhe os dados ao longo do campeonato.
 
+## 💻 Contato
+
+maurilyn@gmail.com
+
+@maurilyn
+
 ---
 
 ## 📄 Licença

@@ -1,6 +1,6 @@
 # 🏁 Planilha Fórmula 1 – Temporada 2025
 
-**Atualizada até:** Belgium GP
+**Atualizada até:** Hungary GP
 
 Esta planilha contém informações e recursos relacionados à temporada 2025 da Fórmula 1. Entre:
 
